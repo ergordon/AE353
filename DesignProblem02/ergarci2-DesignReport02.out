@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Goal}{}% 1
+\BOOKMARK [1][-]{section.2}{Model}{}% 2
+\BOOKMARK [1][-]{section.3}{Controller}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Open Loop Linear System}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Open Loop Controllability}{subsection.3.1}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Closed Loop Linear System}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Linear Quadratic Regulator}{subsection.3.2}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Stability}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Reference Tracking}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Steady State Error}{subsection.3.4}% 10
+\BOOKMARK [1][-]{section.4}{Simulation Results}{}% 11
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 12
