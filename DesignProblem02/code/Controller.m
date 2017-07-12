@@ -55,7 +55,7 @@ function [actuators,data] = initControlSystem(sensors,references,parameters,data
     qdd = inv(M)*(-C*qd-N+tau);
 
     %Equilibrium Points
-    equil = [0 0 0 0 0];
+    equil = [pi 0 0 0 0];
 
     %Linearization
     Alower = vpa(subs(jacobian(qdd,[q1 q2 v1 v2]),[q1 q2 v1 v2 tau1],equil));

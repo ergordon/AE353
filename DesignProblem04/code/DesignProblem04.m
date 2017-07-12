@@ -14,6 +14,7 @@ function DesignProblem04(controller,varargin)
 %           'datafile' : a filename (e.g., 'data.mat') where, if defined,
 %                        data will be logged and saved
 %
+
 %           'moviefile' : a filename (e.g., 'movie.mp4') where, if defined,
 %                         a movie of the simulation will be saved
 %
